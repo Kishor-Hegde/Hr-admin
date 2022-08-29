@@ -1,0 +1,6 @@
+trial.py
+__pycache__
+*.techtok4u
+build
+dist
+main.spec
